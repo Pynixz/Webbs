@@ -34,7 +34,7 @@
 # Disini Carllota Seharusnya berada Di Ranascita,(disini gunakan tombol Edit untuk mengubahnya).
 ![Screenshot 2025-01-12 170756](https://github.com/user-attachments/assets/038e1540-7cbf-4f31-a4b6-f161e9fe2cac)
 
-# Saat Di Edit Pilih Tempat yaituh Ranascita 
+# Saat Di Edit Pilih Tempat yaitu Ranascita 
 ![Screenshot 2025-01-12 170827](https://github.com/user-attachments/assets/8f17eb8c-9644-4787-87e2-4ad078140bc9)
 
 # JIka sudah maka hasilnya akan seperti ini
